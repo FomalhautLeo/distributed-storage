@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -pthread -O2   CMakeFiles/CacheServer.exe.dir/CacheServer.cc.o  -o CacheServer.exe  -Wl,-rpath,/home/jace/git/simple-distributed-storage-system/build/CacheServer:/home/jace/git/simple-distributed-storage-system/build/Config: ../libCacheServer.so ../../Config/libConfig.so 

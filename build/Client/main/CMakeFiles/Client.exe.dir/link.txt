@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -pthread -O2   CMakeFiles/Client.exe.dir/Client.cc.o  -o Client.exe  -Wl,-rpath,/home/jace/git/simple-distributed-storage-system/build/Client:/home/jace/git/simple-distributed-storage-system/build/Config: ../libClient.so ../../Config/libConfig.so 

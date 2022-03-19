@@ -1,0 +1,1134 @@
+[32m[INFO]	  2021-12-17 16:35:36:  Connect to master successfully.
+[32m[INFO]	  2021-12-17 16:35:36:  Receive the first hash slot successfully.
+[32m[INFO]	  2021-12-17 16:35:36:  Connected to primary node successfully.
+[32m[INFO]	  2021-12-17 16:35:36:  Binding port succeeded.
+[32m[INFO]	  2021-12-17 16:35:36:    IP: 0.0.0.0
+[32m[INFO]	  2021-12-17 16:35:36:    Port: 52200
+[32m[INFO]	  2021-12-17 16:35:36:  Setting listen succeeded.
+[32m[INFO]	  2021-12-17 16:35:51:  Connect to client successfully.
+[36m[DEBUG]	  2021-12-17 16:35:52:  Size: 1
+[36m[DEBUG]	  2021-12-17 16:35:52:  Size: 2
+[36m[DEBUG]	  2021-12-17 16:35:52:  Size: 3
+[36m[DEBUG]	  2021-12-17 16:35:52:  Size: 4
+[36m[DEBUG]	  2021-12-17 16:35:53:  Size: 5
+[36m[DEBUG]	  2021-12-17 16:35:53:  Size: 6
+[36m[DEBUG]	  2021-12-17 16:35:53:  Size: 7
+[36m[DEBUG]	  2021-12-17 16:35:53:  Size: 8
+[36m[DEBUG]	  2021-12-17 16:35:53:  Size: 9
+[36m[DEBUG]	  2021-12-17 16:35:54:  Size: 10
+[36m[DEBUG]	  2021-12-17 16:35:54:  Size: 11
+[36m[DEBUG]	  2021-12-17 16:35:54:  Size: 12
+[36m[DEBUG]	  2021-12-17 16:35:54:  Size: 13
+[36m[DEBUG]	  2021-12-17 16:35:54:  Size: 14
+[36m[DEBUG]	  2021-12-17 16:35:55:  Size: 15
+[36m[DEBUG]	  2021-12-17 16:35:55:  Size: 16
+[36m[DEBUG]	  2021-12-17 16:35:55:  Size: 17
+[36m[DEBUG]	  2021-12-17 16:35:55:  Size: 18
+[36m[DEBUG]	  2021-12-17 16:35:55:  Size: 19
+[36m[DEBUG]	  2021-12-17 16:35:55:  Size: 20
+[36m[DEBUG]	  2021-12-17 16:35:56:  Size: 21
+[36m[DEBUG]	  2021-12-17 16:35:56:  Size: 22
+[36m[DEBUG]	  2021-12-17 16:35:56:  Size: 23
+[36m[DEBUG]	  2021-12-17 16:35:56:  Size: 24
+[36m[DEBUG]	  2021-12-17 16:35:56:  Size: 25
+[36m[DEBUG]	  2021-12-17 16:35:56:  Size: 26
+[36m[DEBUG]	  2021-12-17 16:35:56:  Size: 27
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 28
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 29
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 30
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 31
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 32
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 33
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 34
+[36m[DEBUG]	  2021-12-17 16:35:57:  Size: 35
+[36m[DEBUG]	  2021-12-17 16:35:58:  Size: 36
+[36m[DEBUG]	  2021-12-17 16:35:58:  Size: 37
+[36m[DEBUG]	  2021-12-17 16:35:58:  Size: 38
+[36m[DEBUG]	  2021-12-17 16:35:58:  Size: 39
+[36m[DEBUG]	  2021-12-17 16:35:58:  Size: 40
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 41
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 42
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 43
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 44
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 45
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 46
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 48
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 49
+[36m[DEBUG]	  2021-12-17 16:35:59:  Size: 50
+[36m[DEBUG]	  2021-12-17 16:36:00:  Size: 51
+[36m[DEBUG]	  2021-12-17 16:36:00:  Size: 52
+[32m[INFO]	  2021-12-17 16:36:00:  Connect to client successfully.
+[36m[DEBUG]	  2021-12-17 16:36:00:  Size: 53
+[36m[DEBUG]	  2021-12-17 16:36:00:  Size: 54
+[36m[DEBUG]	  2021-12-17 16:36:00:  Size: 55
+[36m[DEBUG]	  2021-12-17 16:36:00:  Size: 56
+[36m[DEBUG]	  2021-12-17 16:36:01:  Size: 57
+[36m[DEBUG]	  2021-12-17 16:36:01:  Size: 58
+[36m[DEBUG]	  2021-12-17 16:36:01:  Size: 58
+[36m[DEBUG]	  2021-12-17 16:36:01:  Size: 59
+[36m[DEBUG]	  2021-12-17 16:36:01:  Size: 60
+[36m[DEBUG]	  2021-12-17 16:36:01:  Size: 61
+[36m[DEBUG]	  2021-12-17 16:36:01:  Size: 62
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 62
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 64
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 65
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 66
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 66
+[36m[DEBUG]	  2021-12-17 16:36:02:  Size: 67
+[36m[DEBUG]	  2021-12-17 16:36:03:  Size: 68
+[36m[DEBUG]	  2021-12-17 16:36:03:  Size: 69
+[36m[DEBUG]	  2021-12-17 16:36:03:  Size: 70
+[36m[DEBUG]	  2021-12-17 16:36:03:  Size: 71
+[36m[DEBUG]	  2021-12-17 16:36:03:  Size: 72
+[36m[DEBUG]	  2021-12-17 16:36:03:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 74
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 75
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 76
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 77
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 78
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 78
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 79
+[36m[DEBUG]	  2021-12-17 16:36:04:  Size: 79
+[36m[DEBUG]	  2021-12-17 16:36:05:  Size: 80
+[36m[DEBUG]	  2021-12-17 16:36:05:  Size: 80
+[36m[DEBUG]	  2021-12-17 16:36:05:  Size: 80
+[36m[DEBUG]	  2021-12-17 16:36:05:  Size: 80
+[36m[DEBUG]	  2021-12-17 16:36:05:  Size: 81
+[36m[DEBUG]	  2021-12-17 16:36:05:  Size: 82
+[36m[DEBUG]	  2021-12-17 16:36:05:  Size: 83
+[36m[DEBUG]	  2021-12-17 16:36:06:  Size: 84
+[36m[DEBUG]	  2021-12-17 16:36:06:  Size: 84
+[36m[DEBUG]	  2021-12-17 16:36:06:  Size: 85
+[36m[DEBUG]	  2021-12-17 16:36:06:  Size: 86
+[36m[DEBUG]	  2021-12-17 16:36:06:  Size: 86
+[36m[DEBUG]	  2021-12-17 16:36:07:  Size: 87
+[36m[DEBUG]	  2021-12-17 16:36:07:  Size: 87
+[36m[DEBUG]	  2021-12-17 16:36:07:  Size: 87
+[36m[DEBUG]	  2021-12-17 16:36:07:  Size: 87
+[36m[DEBUG]	  2021-12-17 16:36:07:  Size: 88
+[36m[DEBUG]	  2021-12-17 16:36:07:  Size: 89
+[36m[DEBUG]	  2021-12-17 16:36:08:  Size: 90
+[36m[DEBUG]	  2021-12-17 16:36:08:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:36:08:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:36:08:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:36:09:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:36:10:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:36:10:  Size: 74
+[36m[DEBUG]	  2021-12-17 16:36:10:  Size: 75
+[36m[DEBUG]	  2021-12-17 16:36:10:  Size: 76
+[36m[DEBUG]	  2021-12-17 16:36:10:  Size: 76
+[36m[DEBUG]	  2021-12-17 16:36:10:  Size: 77
+[36m[DEBUG]	  2021-12-17 16:36:11:  Size: 78
+[36m[DEBUG]	  2021-12-17 16:36:11:  Size: 79
+[36m[DEBUG]	  2021-12-17 16:36:11:  Size: 80
+[36m[DEBUG]	  2021-12-17 16:36:11:  Size: 81
+[36m[DEBUG]	  2021-12-17 16:36:11:  Size: 81
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 82
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 83
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 83
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 84
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 85
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 85
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 86
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 86
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 87
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 88
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 89
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 89
+[36m[DEBUG]	  2021-12-17 16:36:12:  Size: 90
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 91
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 91
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 91
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 92
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 92
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 93
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 93
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 94
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 95
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 96
+[36m[DEBUG]	  2021-12-17 16:36:13:  Size: 97
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 97
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 97
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 98
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 99
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 99
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 100
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 101
+[36m[DEBUG]	  2021-12-17 16:36:14:  Size: 102
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 103
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 103
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 104
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 104
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 104
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 105
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 105
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 106
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 107
+[36m[DEBUG]	  2021-12-17 16:36:15:  Size: 107
+[36m[DEBUG]	  2021-12-17 16:36:16:  Size: 108
+[36m[DEBUG]	  2021-12-17 16:36:16:  Size: 109
+[36m[DEBUG]	  2021-12-17 16:36:16:  Size: 110
+[36m[DEBUG]	  2021-12-17 16:36:16:  Size: 111
+[36m[DEBUG]	  2021-12-17 16:36:16:  Size: 112
+[36m[DEBUG]	  2021-12-17 16:36:16:  Size: 113
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 113
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 114
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 114
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 115
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 116
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 116
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 117
+[36m[DEBUG]	  2021-12-17 16:36:17:  Size: 118
+[36m[DEBUG]	  2021-12-17 16:36:18:  Size: 119
+[36m[DEBUG]	  2021-12-17 16:36:18:  Size: 120
+[36m[DEBUG]	  2021-12-17 16:36:18:  Size: 120
+[36m[DEBUG]	  2021-12-17 16:36:18:  Size: 121
+[36m[DEBUG]	  2021-12-17 16:36:18:  Size: 121
+[36m[DEBUG]	  2021-12-17 16:36:18:  Size: 122
+[36m[DEBUG]	  2021-12-17 16:36:18:  Size: 123
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 123
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 123
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 124
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 125
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 126
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 127
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 128
+[36m[DEBUG]	  2021-12-17 16:36:19:  Size: 129
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 130
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 130
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 130
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 131
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 131
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 132
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 133
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 134
+[36m[DEBUG]	  2021-12-17 16:36:20:  Size: 134
+[36m[DEBUG]	  2021-12-17 16:36:21:  Size: 134
+[36m[DEBUG]	  2021-12-17 16:36:21:  Size: 135
+[36m[DEBUG]	  2021-12-17 16:36:21:  Size: 136
+[36m[DEBUG]	  2021-12-17 16:36:21:  Size: 136
+[36m[DEBUG]	  2021-12-17 16:36:21:  Size: 136
+[36m[DEBUG]	  2021-12-17 16:36:21:  Size: 137
+[36m[DEBUG]	  2021-12-17 16:36:22:  Size: 137
+[36m[DEBUG]	  2021-12-17 16:36:22:  Size: 138
+[36m[DEBUG]	  2021-12-17 16:36:22:  Size: 138
+[36m[DEBUG]	  2021-12-17 16:36:22:  Size: 139
+[36m[DEBUG]	  2021-12-17 16:36:23:  Size: 140
+[36m[DEBUG]	  2021-12-17 16:36:23:  Size: 141
+[36m[DEBUG]	  2021-12-17 16:36:23:  Size: 142
+[36m[DEBUG]	  2021-12-17 16:36:23:  Size: 143
+[36m[DEBUG]	  2021-12-17 16:36:23:  Size: 143
+[36m[DEBUG]	  2021-12-17 16:36:23:  Size: 144
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 144
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 145
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 146
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 147
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 147
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 148
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 148
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 149
+[36m[DEBUG]	  2021-12-17 16:36:24:  Size: 150
+[36m[DEBUG]	  2021-12-17 16:36:25:  Size: 151
+[36m[DEBUG]	  2021-12-17 16:36:25:  Size: 152
+[36m[DEBUG]	  2021-12-17 16:36:25:  Size: 153
+[36m[DEBUG]	  2021-12-17 16:36:25:  Size: 154
+[36m[DEBUG]	  2021-12-17 16:36:25:  Size: 154
+[36m[DEBUG]	  2021-12-17 16:36:25:  Size: 155
+[36m[DEBUG]	  2021-12-17 16:36:26:  Size: 156
+[36m[DEBUG]	  2021-12-17 16:36:26:  Size: 157
+[36m[DEBUG]	  2021-12-17 16:36:26:  Size: 158
+[36m[DEBUG]	  2021-12-17 16:36:26:  Size: 159
+[36m[DEBUG]	  2021-12-17 16:36:26:  Size: 159
+[36m[DEBUG]	  2021-12-17 16:36:26:  Size: 160
+[36m[DEBUG]	  2021-12-17 16:36:26:  Size: 160
+[36m[DEBUG]	  2021-12-17 16:36:27:  Size: 161
+[36m[DEBUG]	  2021-12-17 16:36:27:  Size: 161
+[36m[DEBUG]	  2021-12-17 16:36:27:  Size: 162
+[36m[DEBUG]	  2021-12-17 16:36:27:  Size: 162
+[36m[DEBUG]	  2021-12-17 16:36:27:  Size: 163
+[36m[DEBUG]	  2021-12-17 16:36:28:  Size: 164
+[36m[DEBUG]	  2021-12-17 16:36:28:  Size: 164
+[36m[DEBUG]	  2021-12-17 16:36:28:  Size: 164
+[36m[DEBUG]	  2021-12-17 16:36:29:  Size: 126
+[36m[DEBUG]	  2021-12-17 16:36:30:  Size: 126
+[36m[DEBUG]	  2021-12-17 16:36:30:  Size: 126
+[36m[DEBUG]	  2021-12-17 16:36:31:  Size: 126
+[36m[DEBUG]	  2021-12-17 16:36:31:  Size: 126
+[36m[DEBUG]	  2021-12-17 16:36:32:  Size: 127
+[36m[DEBUG]	  2021-12-17 16:36:32:  Size: 128
+[36m[DEBUG]	  2021-12-17 16:36:32:  Size: 128
+[36m[DEBUG]	  2021-12-17 16:36:33:  Size: 129
+[36m[DEBUG]	  2021-12-17 16:36:33:  Size: 129
+[36m[DEBUG]	  2021-12-17 16:36:33:  Size: 130
+[36m[DEBUG]	  2021-12-17 16:36:33:  Size: 130
+[36m[DEBUG]	  2021-12-17 16:36:33:  Size: 131
+[36m[DEBUG]	  2021-12-17 16:36:33:  Size: 132
+[36m[DEBUG]	  2021-12-17 16:36:33:  Size: 132
+[36m[DEBUG]	  2021-12-17 16:36:34:  Size: 133
+[36m[DEBUG]	  2021-12-17 16:36:34:  Size: 134
+[36m[DEBUG]	  2021-12-17 16:36:34:  Size: 135
+[36m[DEBUG]	  2021-12-17 16:36:34:  Size: 135
+[36m[DEBUG]	  2021-12-17 16:36:34:  Size: 136
+[36m[DEBUG]	  2021-12-17 16:36:34:  Size: 136
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 137
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 137
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 138
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 138
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 139
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 140
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 141
+[36m[DEBUG]	  2021-12-17 16:36:35:  Size: 142
+[36m[DEBUG]	  2021-12-17 16:36:36:  Size: 143
+[36m[DEBUG]	  2021-12-17 16:36:36:  Size: 144
+[36m[DEBUG]	  2021-12-17 16:36:36:  Size: 145
+[36m[DEBUG]	  2021-12-17 16:36:36:  Size: 145
+[36m[DEBUG]	  2021-12-17 16:36:37:  Size: 145
+[36m[DEBUG]	  2021-12-17 16:36:37:  Size: 146
+[36m[DEBUG]	  2021-12-17 16:36:37:  Size: 147
+[36m[DEBUG]	  2021-12-17 16:36:37:  Size: 147
+[36m[DEBUG]	  2021-12-17 16:36:37:  Size: 148
+[36m[DEBUG]	  2021-12-17 16:36:38:  Size: 148
+[36m[DEBUG]	  2021-12-17 16:36:38:  Size: 148
+[36m[DEBUG]	  2021-12-17 16:36:38:  Size: 149
+[36m[DEBUG]	  2021-12-17 16:36:39:  Size: 150
+[36m[DEBUG]	  2021-12-17 16:36:39:  Size: 150
+[36m[DEBUG]	  2021-12-17 16:36:39:  Size: 150
+[36m[DEBUG]	  2021-12-17 16:36:39:  Size: 151
+[36m[DEBUG]	  2021-12-17 16:36:39:  Size: 152
+[36m[DEBUG]	  2021-12-17 16:36:40:  Size: 153
+[36m[DEBUG]	  2021-12-17 16:36:40:  Size: 154
+[32m[INFO]	  2021-12-17 16:37:47:  Connect to master successfully.
+[32m[INFO]	  2021-12-17 16:37:47:  Receive the first hash slot successfully.
+[32m[INFO]	  2021-12-17 16:37:47:  Connected to primary node successfully.
+[32m[INFO]	  2021-12-17 16:37:47:  Binding port succeeded.
+[32m[INFO]	  2021-12-17 16:37:47:    IP: 0.0.0.0
+[32m[INFO]	  2021-12-17 16:37:47:    Port: 52200
+[32m[INFO]	  2021-12-17 16:37:47:  Setting listen succeeded.
+[32m[INFO]	  2021-12-17 16:37:51:  Connect to client successfully.
+[36m[DEBUG]	  2021-12-17 16:37:51:  Size: 1
+[36m[DEBUG]	  2021-12-17 16:37:51:  Size: 2
+[36m[DEBUG]	  2021-12-17 16:37:51:  Size: 3
+[36m[DEBUG]	  2021-12-17 16:37:51:  Size: 4
+[36m[DEBUG]	  2021-12-17 16:37:52:  Size: 5
+[36m[DEBUG]	  2021-12-17 16:37:52:  Size: 6
+[36m[DEBUG]	  2021-12-17 16:37:52:  Size: 7
+[36m[DEBUG]	  2021-12-17 16:37:52:  Size: 8
+[36m[DEBUG]	  2021-12-17 16:37:52:  Size: 9
+[36m[DEBUG]	  2021-12-17 16:37:53:  Size: 10
+[36m[DEBUG]	  2021-12-17 16:37:53:  Size: 11
+[36m[DEBUG]	  2021-12-17 16:37:53:  Size: 12
+[36m[DEBUG]	  2021-12-17 16:37:53:  Size: 13
+[36m[DEBUG]	  2021-12-17 16:37:53:  Size: 14
+[36m[DEBUG]	  2021-12-17 16:37:53:  Size: 15
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 16
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 17
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 18
+[32m[INFO]	  2021-12-17 16:37:54:  Connect to client successfully.
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 19
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 20
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 21
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 22
+[36m[DEBUG]	  2021-12-17 16:37:54:  Size: 23
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 24
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 25
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 26
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 27
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 28
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 29
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 30
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 31
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 32
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 33
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 34
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 35
+[36m[DEBUG]	  2021-12-17 16:37:55:  Size: 36
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 37
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 38
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 39
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 40
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 41
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 42
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 43
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 44
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 45
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 46
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 48
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 49
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 50
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 51
+[36m[DEBUG]	  2021-12-17 16:37:56:  Size: 52
+[36m[DEBUG]	  2021-12-17 16:37:57:  Size: 53
+[36m[DEBUG]	  2021-12-17 16:37:57:  Size: 54
+[32m[INFO]	  2021-12-17 16:38:00:  Connect to master successfully.
+[32m[INFO]	  2021-12-17 16:38:00:  Receive the first hash slot successfully.
+[32m[INFO]	  2021-12-17 16:38:00:  Connected to primary node successfully.
+[32m[INFO]	  2021-12-17 16:38:00:  Binding port succeeded.
+[32m[INFO]	  2021-12-17 16:38:00:    IP: 0.0.0.0
+[32m[INFO]	  2021-12-17 16:38:00:    Port: 52200
+[32m[INFO]	  2021-12-17 16:38:00:  Setting listen succeeded.
+[32m[INFO]	  2021-12-17 16:38:03:  Connect to client successfully.
+[36m[DEBUG]	  2021-12-17 16:38:05:  Size: 1
+[36m[DEBUG]	  2021-12-17 16:38:05:  Size: 2
+[36m[DEBUG]	  2021-12-17 16:38:05:  Size: 3
+[36m[DEBUG]	  2021-12-17 16:38:05:  Size: 4
+[36m[DEBUG]	  2021-12-17 16:38:06:  Size: 5
+[36m[DEBUG]	  2021-12-17 16:38:06:  Size: 6
+[36m[DEBUG]	  2021-12-17 16:38:06:  Size: 7
+[36m[DEBUG]	  2021-12-17 16:38:06:  Size: 8
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 9
+[32m[INFO]	  2021-12-17 16:38:07:  Connect to client successfully.
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 10
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 11
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 12
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 13
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 14
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 15
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 16
+[36m[DEBUG]	  2021-12-17 16:38:07:  Size: 16
+[36m[DEBUG]	  2021-12-17 16:38:08:  Size: 17
+[36m[DEBUG]	  2021-12-17 16:38:08:  Size: 17
+[36m[DEBUG]	  2021-12-17 16:38:08:  Size: 18
+[36m[DEBUG]	  2021-12-17 16:38:08:  Size: 19
+[36m[DEBUG]	  2021-12-17 16:38:08:  Size: 20
+[36m[DEBUG]	  2021-12-17 16:38:08:  Size: 20
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 21
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 21
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 22
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 23
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 23
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 24
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 24
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 25
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 26
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 27
+[36m[DEBUG]	  2021-12-17 16:38:09:  Size: 28
+[36m[DEBUG]	  2021-12-17 16:38:10:  Size: 29
+[36m[DEBUG]	  2021-12-17 16:38:10:  Size: 30
+[36m[DEBUG]	  2021-12-17 16:38:10:  Size: 30
+[36m[DEBUG]	  2021-12-17 16:38:10:  Size: 31
+[36m[DEBUG]	  2021-12-17 16:38:10:  Size: 32
+[36m[DEBUG]	  2021-12-17 16:38:10:  Size: 32
+[36m[DEBUG]	  2021-12-17 16:38:10:  Size: 33
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 34
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 35
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 36
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 36
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 37
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 38
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 38
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 39
+[36m[DEBUG]	  2021-12-17 16:38:11:  Size: 39
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 40
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 40
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 41
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 41
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 42
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 43
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 43
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 44
+[36m[DEBUG]	  2021-12-17 16:38:12:  Size: 45
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 45
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 46
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 46
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 48
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 49
+[36m[DEBUG]	  2021-12-17 16:38:13:  Size: 50
+[36m[DEBUG]	  2021-12-17 16:38:14:  Size: 50
+[36m[DEBUG]	  2021-12-17 16:38:14:  Size: 51
+[36m[DEBUG]	  2021-12-17 16:38:14:  Size: 52
+[36m[DEBUG]	  2021-12-17 16:38:14:  Size: 53
+[36m[DEBUG]	  2021-12-17 16:38:14:  Size: 54
+[36m[DEBUG]	  2021-12-17 16:38:14:  Size: 55
+[36m[DEBUG]	  2021-12-17 16:38:14:  Size: 56
+[36m[DEBUG]	  2021-12-17 16:38:15:  Size: 57
+[36m[DEBUG]	  2021-12-17 16:38:15:  Size: 57
+[36m[DEBUG]	  2021-12-17 16:38:15:  Size: 58
+[36m[DEBUG]	  2021-12-17 16:38:15:  Size: 58
+[36m[DEBUG]	  2021-12-17 16:38:15:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:16:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:17:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:17:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:17:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 47
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 48
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 49
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 50
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 50
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 50
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 51
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 51
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 51
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 51
+[36m[DEBUG]	  2021-12-17 16:38:18:  Size: 52
+[36m[DEBUG]	  2021-12-17 16:38:19:  Size: 53
+[36m[DEBUG]	  2021-12-17 16:38:19:  Size: 53
+[36m[DEBUG]	  2021-12-17 16:38:19:  Size: 54
+[36m[DEBUG]	  2021-12-17 16:38:19:  Size: 54
+[36m[DEBUG]	  2021-12-17 16:38:19:  Size: 55
+[36m[DEBUG]	  2021-12-17 16:38:19:  Size: 55
+[36m[DEBUG]	  2021-12-17 16:38:20:  Size: 56
+[36m[DEBUG]	  2021-12-17 16:38:20:  Size: 57
+[36m[DEBUG]	  2021-12-17 16:38:20:  Size: 57
+[36m[DEBUG]	  2021-12-17 16:38:20:  Size: 58
+[36m[DEBUG]	  2021-12-17 16:38:20:  Size: 59
+[36m[DEBUG]	  2021-12-17 16:38:20:  Size: 60
+[36m[DEBUG]	  2021-12-17 16:38:20:  Size: 60
+[36m[DEBUG]	  2021-12-17 16:38:21:  Size: 60
+[36m[DEBUG]	  2021-12-17 16:38:21:  Size: 60
+[36m[DEBUG]	  2021-12-17 16:38:21:  Size: 61
+[36m[DEBUG]	  2021-12-17 16:38:21:  Size: 62
+[36m[DEBUG]	  2021-12-17 16:38:21:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:38:22:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:38:22:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:38:22:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:38:22:  Size: 64
+[36m[DEBUG]	  2021-12-17 16:38:22:  Size: 65
+[36m[DEBUG]	  2021-12-17 16:38:22:  Size: 66
+[36m[DEBUG]	  2021-12-17 16:38:22:  Size: 66
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 67
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 68
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 68
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 69
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 70
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 71
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 72
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 72
+[36m[DEBUG]	  2021-12-17 16:38:23:  Size: 72
+[36m[DEBUG]	  2021-12-17 16:38:24:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:38:24:  Size: 59
+[36m[DEBUG]	  2021-12-17 16:38:25:  Size: 59
+[36m[DEBUG]	  2021-12-17 16:38:25:  Size: 59
+[36m[DEBUG]	  2021-12-17 16:38:26:  Size: 59
+[36m[DEBUG]	  2021-12-17 16:38:26:  Size: 59
+[36m[DEBUG]	  2021-12-17 16:38:27:  Size: 60
+[36m[DEBUG]	  2021-12-17 16:38:27:  Size: 61
+[36m[DEBUG]	  2021-12-17 16:38:27:  Size: 62
+[36m[DEBUG]	  2021-12-17 16:38:27:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:38:27:  Size: 63
+[36m[DEBUG]	  2021-12-17 16:38:27:  Size: 64
+[36m[DEBUG]	  2021-12-17 16:38:27:  Size: 64
+[36m[DEBUG]	  2021-12-17 16:38:28:  Size: 64
+[36m[DEBUG]	  2021-12-17 16:38:28:  Size: 64
+[36m[DEBUG]	  2021-12-17 16:38:28:  Size: 65
+[36m[DEBUG]	  2021-12-17 16:38:28:  Size: 65
+[36m[DEBUG]	  2021-12-17 16:38:28:  Size: 66
+[36m[DEBUG]	  2021-12-17 16:38:28:  Size: 67
+[36m[DEBUG]	  2021-12-17 16:38:29:  Size: 67
+[36m[DEBUG]	  2021-12-17 16:38:29:  Size: 67
+[36m[DEBUG]	  2021-12-17 16:38:29:  Size: 68
+[36m[DEBUG]	  2021-12-17 16:38:29:  Size: 68
+[36m[DEBUG]	  2021-12-17 16:38:29:  Size: 69
+[36m[DEBUG]	  2021-12-17 16:38:29:  Size: 69
+[36m[DEBUG]	  2021-12-17 16:38:29:  Size: 70
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 71
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 72
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 73
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 74
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 75
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 76
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 77
+[36m[DEBUG]	  2021-12-17 16:38:30:  Size: 78
+[36m[DEBUG]	  2021-12-17 16:38:31:  Size: 79
+[36m[DEBUG]	  2021-12-17 16:38:31:  Size: 79
+[36m[DEBUG]	  2021-12-17 16:38:31:  Size: 80
+[32m[INFO]	  2021-12-17 16:38:31:  Binding port succeeded.
+[32m[INFO]	  2021-12-17 16:38:31:    IP: 0.0.0.0
+[32m[INFO]	  2021-12-17 16:38:31:    Port: 60102
+[32m[INFO]	  2021-12-17 16:38:31:  Setting listen succeeded.
+[36m[DEBUG]	  2021-12-17 16:38:32:  Size: 101
+[36m[DEBUG]	  2021-12-17 16:38:33:  Size: 102
+[36m[DEBUG]	  2021-12-17 16:38:33:  Size: 103
+[36m[DEBUG]	  2021-12-17 16:38:33:  Size: 104
+[36m[DEBUG]	  2021-12-17 16:38:33:  Size: 105
+[36m[DEBUG]	  2021-12-17 16:38:33:  Size: 106
+[36m[DEBUG]	  2021-12-17 16:38:33:  Size: 106
+[36m[DEBUG]	  2021-12-17 16:38:33:  Size: 107
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 108
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 108
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 109
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 110
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 110
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 111
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 112
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 113
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 113
+[36m[DEBUG]	  2021-12-17 16:38:34:  Size: 114
+[36m[DEBUG]	  2021-12-17 16:38:35:  Size: 115
+[36m[DEBUG]	  2021-12-17 16:38:35:  Size: 116
+[36m[DEBUG]	  2021-12-17 16:38:35:  Size: 117
+[36m[DEBUG]	  2021-12-17 16:38:35:  Size: 118
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 118
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 119
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 120
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 121
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 121
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 122
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 122
+[36m[DEBUG]	  2021-12-17 16:38:36:  Size: 122
+[36m[DEBUG]	  2021-12-17 16:38:37:  Size: 122
+[36m[DEBUG]	  2021-12-17 16:38:37:  Size: 123
+[36m[DEBUG]	  2021-12-17 16:38:37:  Size: 123
+[36m[DEBUG]	  2021-12-17 16:38:37:  Size: 124
+[36m[DEBUG]	  2021-12-17 16:38:37:  Size: 124
+[32m[INFO]	  2021-12-17 16:38:38:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:38:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:38:     Key: OUtT*Hk1p$*@miGxQzaX
+   Value: ugqGPM%CUEkS1sPfrin%NFzASG&dV3O1NKZi9mnbk6Hg2h2atupmMy?6AHcLGjV4!IDeHmjCJe8L4Co%Z7KP*8SdRuacb5r3SwG8S7#0FIJq%agwKLW*VX7kCJtSQVOVNtodx?2k96%E3Yj4sV0U*SG3hMJew00mTLs1IVyfq#xzdkjgNl#8GpY&itZBw4#e0BFSTngA
+[36m[DEBUG]	  2021-12-17 16:38:38:  Size: 125
+[32m[INFO]	  2021-12-17 16:38:38:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:38:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:38:     Key: bCZTnp@DxzT$eUcu9r?Q
+   Value: I&eflqPH@mGbeJ3G0$XiQ0b!entdi1GgYfk$RScQj676Nga!o5@a$7cs2lHvGxZYdi?k%zWJ$yee$5j#8p0JuXo&qESaLCATquZOa2nIMu6VQT7FT@%f7DKHKGiVc0M1u88L0oomQzLjqoCH*DjG?q9RZ2B0qxAzZelRQy9mMMgvr4EUmq6!hbTUKP3TZ3JA#&R2PVmJ
+[36m[DEBUG]	  2021-12-17 16:38:38:  Size: 126
+[32m[INFO]	  2021-12-17 16:38:38:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:38:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:38:     Key: iutaDfL%dNf&U%qS6wFC
+   Value: mRgOMf*k%wWmpZBxj#EY#$gQ%aYy5X5h19NtZdKweWljeTnbk%AVnlI#jzv7toNBlJ8pC1nMoDnwrSTIZco8v3I$hCsYko#9PGdIVeAt!?i1IQQNS*9rO8LfCz$rGX7HczU*gevwm3%QS4puq9*4dfmCatfWxI6Vy7*drjEz7igERBeP3*w59HhI8dLSPYa@DJj0DcpL
+[36m[DEBUG]	  2021-12-17 16:38:38:  Size: 127
+[32m[INFO]	  2021-12-17 16:38:38:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:38:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:38:     Key: g?RdHLMUSAmvDfqFiwWU
+   Value: Z#D5E!06zsmE?3Osgs$7q&UMMCZkGDI!au!D4kHXOPu7fccLBAfjdGA8Wjg1CptQaDrPg!7onff6TXXNaO0vCU3IIXZdUuVru%K6AqfG@x$E#C&qlQ?gFlpiGn415BxI0qnNiF$pA!gBZeAF#@nv?2JVddSkN?jJ4OH?bn$v?XV3KEoW21oDJoDF$J#VJFN&4i5RDLpC
+[36m[DEBUG]	  2021-12-17 16:38:38:  Size: 128
+[32m[INFO]	  2021-12-17 16:38:38:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:38:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:38:     Key: lEoGpKZHJrl3urou#Wo6
+   Value: 4?BAkPpJq$ej3OHzow9Ywo8?CYDkZ7o&4l2x78g7&w84Dst5bpDL8n&o$?*4$1JKwniIFqx7TZS*1oq&HoIWb7OKGlgG&4duB%m4R$SsEzCMWZ?#Jp&adEcabw##N4W5$7p&Ic%SeNbChFeJuhEB&MMjXg@51DQOKdwQib%@NRx@rzxYlru2urz8UydteyzxPFOCbdMZ
+[36m[DEBUG]	  2021-12-17 16:38:38:  Size: 129
+[32m[INFO]	  2021-12-17 16:38:39:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:39:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:39:     Key: MKHwak?!4Yz1sVq#1DTN
+   Value: CB7XkfCWqoczEm@sI44biafpe&BCxf5jJ@YaCzkY#!BraMJly%dyKjwzTgjlWTEi?l7ULa4?#@u@NtRSh%a2Z4KDeuEWwYsebOF5tbfYdrQ5#ukN1rh9UMR%$N&WTRtLC@u4x?Gm7gSqcZ1yy9#P0Prbi5o#oDmh&og1!KtVvBQzVbcKIDkXcuR&yV$wEUwQ&f3@EbF3
+[36m[DEBUG]	  2021-12-17 16:38:39:  Size: 130
+[32m[INFO]	  2021-12-17 16:38:39:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:39:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:39:     Key: iHe5iDDNnufKp$FtW3Qz
+   Value: Uqud9QVp7cp?uLrdZ&gCfH@Xd#Xa2DIi2ofFBOvR&$lcz8cmH#%R%N8mNzK9uzP$f%JuibwYJakdqe6t0O?C2Qvx#$c4ngj6C9Byv*9zQXt@aAJAKPmms1516kz4d#CQlvh&fCWjBh6vymefyqvGDWvD30Rn?oHvbKsK9z$G!hJixiSagAjL&z0$koDJeTC8bAF9k&H2
+[36m[DEBUG]	  2021-12-17 16:38:39:  Size: 131
+[32m[INFO]	  2021-12-17 16:38:39:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:39:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:39:     Key: PPZPTfSHb@Ic%ihNMTpa
+   Value: Bj@@*2Pb05jxzC?xaCes66IBJ9Nkz&#PPhcQuAZ6O9i*4of70Wx$Ib%VBCR1?Nn!Ups!hS8b*3RmDTgtqNmv33r11sL3wQr2UgRgsf2d*WR@@O@EPWQfQfL15zqq5tDv#BDyynPpTFdK!!f#bFrhG21kOEyuHQNVcNfzevfrJ*qdC%M3FglctMR%rjbUVleJY!aaCZ%L
+[36m[DEBUG]	  2021-12-17 16:38:39:  Size: 132
+[32m[INFO]	  2021-12-17 16:38:39:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:39:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:39:     Key: FbuR#n4gh$EoxqfozGNI
+   Value: 6dtBCaYibEBqDMqFp4wnl8S%wky80&Io&lpuoKgs15@dXnEd@u$AouNMUswrIt6KAmrPeaZatzbfXrBbBKOlWpAy#v33be4lIgCG9xA!jygq?6l1KLHi3JBRxEjXsD8s4hQm5nVxre1Zrd0Q9AFDuoXGshrHEdMuKMF6u!j*a8fkLS2z8mmEgyxrPbxVHnUtleD?8Bmy
+[36m[DEBUG]	  2021-12-17 16:38:39:  Size: 133
+[32m[INFO]	  2021-12-17 16:38:39:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:39:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:39:     Key: 8R7WYDKGB70$tM9mVYkN
+   Value: 9&cvel9PMZGVwtf&O@5eK330c9h9!KUphmzW7nCzo8i4sLcc%I7dhLeck?S%dsu2tonIRV7yI7#h*a8J0AnpLE4iD?2nPA5NoX#94VCpik%npf6leOlmxzl2jXy#PSoTXi0hOEcEfEuKjI$Nc8#Uh%OyL3A@rjN3UjVbk2$5qo?QoIUrn5YKo&l#j#8ZYxe!$WGc*%VA
+[36m[DEBUG]	  2021-12-17 16:38:39:  Size: 134
+[32m[INFO]	  2021-12-17 16:38:39:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:39:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:39:      Key: uX$QlBP%l&WgeO6KYdf3
+[36m[DEBUG]	  2021-12-17 16:38:39:  Size: 134
+[32m[INFO]	  2021-12-17 16:38:40:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:40:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:40:     Key: y*q79TNz$%io@RbCgDGK
+   Value: fP3&9sdsOSOiehMgx4w18A2T#xDLQ6J9U4*%tlSft0MkACuxlIWrBOQtkR2yva3SOkyy26@MZBAKrnmwV%CZ!XS4Lrs*A%a6flmf2%jD4x*P!EVJSnha1fIZP12?v$?O9Eo6qF3HAb*u0FKkl1XUdL&P1!Nu#%byU5r767N?KEl@4J!P4zIK?oAae6#n?6gA6@j012Wh
+[36m[DEBUG]	  2021-12-17 16:38:40:  Size: 135
+[32m[INFO]	  2021-12-17 16:38:40:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:40:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:40:      Key: eDfD1Ffp47Tg3WQ@%G7V
+[36m[DEBUG]	  2021-12-17 16:38:40:  Size: 135
+[32m[INFO]	  2021-12-17 16:38:40:  Connect to standby node successfully.
+[32m[INFO]	  2021-12-17 16:38:40:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:40:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:40:      Key: #86P3K7mCpzMIdd@@1iB
+[36m[DEBUG]	  2021-12-17 16:38:40:  Size: 135
+[32m[INFO]	  2021-12-17 16:38:40:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:40:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:40:     Key: AP3lWw!VuJJaWV&Lmbha
+   Value: Ik5RyP*fc%eXxDoCZ*YJ!q%*hBkKIsH7KoUa3pf$L!LM7z1gEYzRWwr%jyGXWV9I*m%a%WyovkE!I&vJrF*6psPO366JJE3DpZgGqf1$2!6M$FSi&Ml#HmGocZFX&R?M#0VuFe1v9%*EaYTmlfaut!5RbdQ9%47KLECXhIjE1zvowf46344%DncPegpPG9kpzZ0?H$#w
+[36m[DEBUG]	  2021-12-17 16:38:40:  Size: 136
+[32m[INFO]	  2021-12-17 16:38:40:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:40:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:40:     Key: 54RzcdAWaAel@wQdpAvy
+   Value: 5ZOb#BfN9Fb%PdLZWcyNgg*epL%nq5v01JKpu$htzVCHKDPMG7iPP8eMjIWWZclShQJzvaSiM7g&1F@dAD1X9@P5ItfTmIGOdSwzYw5zfM3qkt?7YfFTblwNXujvLBEJZ7sk0d?1?aKLCAO%tXG8JgGtoK7qfVSzT?!5nAcLA5eLC&0V%ASSsFwtyPmAXaX!Lg!c4wYP
+[36m[DEBUG]	  2021-12-17 16:38:40:  Size: 137
+[32m[INFO]	  2021-12-17 16:38:40:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:40:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:40:     Key: afsGtM7&jMlOM$qPY&b%
+   Value: u60LN9w9sB3ikDbmdl%?w7I7mt3I$ieBg0wtfGso9uCNvCGv#!xx*mHKS7RqJlDjKPYAV@6C3Ckq#3AmTrSXcGQoc5nd9rCV@!3w&Qoi7vWedzXEVk2BKu&4ndx5MR5gBU1uXjV89EOcD3ngDiMLA7%y0UimBbFYYF3e#8OtT67jW7CXpqHoKWqk0myLNxb5kJSl21ri
+[36m[DEBUG]	  2021-12-17 16:38:40:  Size: 138
+[32m[INFO]	  2021-12-17 16:38:41:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:41:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:41:      Key: V0uGa8#?fqxCpeYTLV2z
+[36m[DEBUG]	  2021-12-17 16:38:41:  Size: 138
+[32m[INFO]	  2021-12-17 16:38:41:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:41:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:41:     Key: Oc!ZY&Oxa&CtBkTrzjYz
+   Value: AcqK14%2Ryuvld?wsWJKMguuscpeNDqoae9aDF!rn0hQp$X*MLx8hXzXBrft7Jv6!T?tGO#Mj%x!4W5ifF10519SYTChTdFM##BcKwUosTiQfbbIUT$h!in4csIa63dJ8o1&n%kqV2K6h%RC%25vCwY$ONIW6Co1&TDkpaRSE1*F7mUaXE?S!4M1gdFohYVZcRK35JWq
+[36m[DEBUG]	  2021-12-17 16:38:41:  Size: 139
+[32m[INFO]	  2021-12-17 16:38:41:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:41:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:41:     Key: 3kY5X$yyX6jNl2LhC&FQ
+   Value: !DSMydAlQgZyZP64HjW1DfcIp4@Zlws?#HMdTUeawo2m5Gug1JdGe?BDCvrvUlzUNGmfJcM3nqzW#sU79RzOtH6RSqT7DBIp3YR&hL0VXgKMUpGZxGIMn$3#&##bV&u?vY33GoDfaUNvXqKThwAkE$XkPrf?vDJ0NA!t@53!#gWmlbryjaKCS8l!gQ47D#U7Emkn&8YD
+[36m[DEBUG]	  2021-12-17 16:38:41:  Size: 140
+[32m[INFO]	  2021-12-17 16:38:41:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:41:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:41:      Key: 7!PT7HZHvRkNe58mVTlg
+[36m[DEBUG]	  2021-12-17 16:38:41:  Size: 140
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:42:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:42:      Key: Z3I000hfAp1SaQSy6sCU
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 140
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:42:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:42:     Key: ?d3eXYTS*ohNs5jPc5aC
+   Value: ecu%17*?Mmgd1Lwp0HwgrMY8I6g$jfP6FC8F@$BdzUEUCeto3@kj4H1$h1dmco@j0K%Vp4ona5zU*JSaij*j0y97B8QlfWXGvHEdYw3v8H!seR%kug#jPgwqoClWpiZMXfb!Dv1FsJl8GUifQZ8?u%aMUFyJ5pQeU3*o8rli7aIMXuk2YY$qxUZFCbQfwX9XdAx5CP&L
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 141
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:42:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:42:      Key: 7EphWlkOhFa%uVIMV!%P
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 141
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:42:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:42:     Key: Lya1JtqO?npz4@ce9Y$Y
+   Value: rrntBQU7dhE@tN6Xp1nZwBFpx8lml3kfz20c7YE1ryWD3ELE%%ECaEpg@92g!t#wlBfNVvL5dxTiymlReb0$QxW35@q1El83!iB3@9dzJOlluCzdt7hO#%080G2w&Cb7HMLyEkpQ$F8UdQlfd5L8UsDlt!7mNwF@R*Wo$!pPOY0Oi2@tpXYmY8gJt$1Fd%HWIflmrQN*
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 142
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:42:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:42:     Key: zJ1w8KdJGor@ywcZo5Q1
+   Value: BxR66hP3zVaOzI22JBmaI4XEvUeG$UlirCvGnNMKJsVCtK#p3RSz7dIARKPcq8O1xxMsW*hI1YVg1Yt8kdcjUbcSyNt0Fpi?cRnTY1nB5ZuyWwNaf4cMj7kP$r0eO@qtuAE?bbno3jILd7RKcpXl&p@tQd9m?NU%JcQ?5m8iHqOEYb6mQ0xLsc?cYs8wBq4EMxRQJuS9
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 143
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:42:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:42:     Key: uuquZ*qkqqsUxo#**QP0
+   Value: KJBg729!Kw0K7cFKav#a3sCe?wB3!1v!%w25L!G02!8MZmm@%@b%LyPg3QgGZNYAmIYkOYErCKHsi$Bh2Z5T6caH$RQ$S3aZOXYub*ricx9*G0@7heVH4?T5RCrmL&VOg3vWoDuZUU!HUZn#5a#Dzt?enD11kfyl4xz$6MsBYB%11GDYccNjOOgSLLFo$7Rojj05vyjg
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 144
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:42:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:42:      Key: @#!kM5U2R7KF&7a9MFGK
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 144
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:42:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:42:      Key: uSJMEx4Tg@heie#bwt5S
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 144
+[32m[INFO]	  2021-12-17 16:38:42:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:42:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:42:      Key: cAd*VFP5%p7G8vPl85fI
+[36m[DEBUG]	  2021-12-17 16:38:42:  Size: 144
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: ANkW6O%dyqp3yJh%KE#x
+   Value: er@Qz?v%2TNzL*UC*FQ1qUV5vPuHqy$5KrhI7Pf94ltP@60LkhrpQB$SJ*P?XNZ!cTvmViuW!itJgiEiYL&gC6fj0QLkvPJzWyme3OCaAWnog5dDpQnosuT7eZ13B5rN*3w24?X3RmzwGAJiOl%@NWXe*h8trB8y2iDR9sBmlAg0SskZs$4kZ$87y?D6bjmG&90lvGIo
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 145
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: sZzY0v1rD7uZ6sGz&!Tz
+   Value: QNsTm0ybbbzyvR9jHNSto2v4kF#L@u6&4Ewlv!w#Wy0IZ1q38RF2K4I2J50ZF9IJjrvCsG1mfd%*LOaeJWRsfYC5qfXRJgnCJ0T61FiqwZWC9SXx#R7$ZUT&fia6jl*cMqbYtr%Ilx1Uvg!?Qmv&MfW&dei4Dp3RnPRJYci?rA*gnxN4JAWcK3bm!fu#?jZlA*p4D!AM
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 146
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:43:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:43:      Key: &!eCjFRukvaBsM5CYO3q
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 146
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: Hc%O!avOrbV2NYXFBzbZ
+   Value: XglK#YiYZqzEgw4L6JZxcwb5iQ?CJM5G*@FsOHtBf2ryicWIqertGcBUgbkZKRESdthN&OLgA6AcMbG4oXKdiT#9GQ#6eQNuPBy%yVpq60PgJdHfr6hegysY3wMi3mlq8kejpRVfnXhKp3LU5@Je*KwnhE!gNYCM$DDr751r4inOhQY2WQ2wBOgKhJpy4$T8esxV4Yd&
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 147
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:43:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:43:      Key: BFU&Ja#mgUGokSDY6ir#
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 147
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: ruzRy9RmQBChk!qdeR&U
+   Value: PDYcTO%*r0PVu!m4nCZqiA!WFRk?Mr%H3vgdAHDBAqO&Jx%HhlUq$zY&wdCsASp@sce&zk*IEKwTB3im8%bPATYuj4B2y#wucYf4db&Q*C7GKXcUK9$FU#JeHpsbK1mq4CymF@Y1*ySVz9QiT$K21n0v@$*6Tig5Ydkru4pgIo9NDjBexk!V7QneLR@pc408NiBgihVA
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 148
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: jiZ9#sbFDdbe2mJkQU0t
+   Value: 3FgxWE@kkjbSZLnETcrqtwpPCAfwzFsAZBzfzdy4J6NsNZe93a49NIlUqjezgv&3oWnv*Y?jQIWudJ5IwLelvW@A!r2t0#E33dAAhFoH6AapjeeqGNP&3MGq4!fa5Py49CrQEqi$3aeyPYGA!&91DOR$lB9f4$hvY7rBXd&0r3cvNv4XMrKcF2byw3R&!3u6p@I49hnK
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 149
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:43:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:43:      Key: VZrUhjkh&1KkJJfcdAP@
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 149
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: 3UojK&gNgynvuc#5VzPU
+   Value: SmspUu#v*1g3&VrmFVQSZx&UnqOuLId5@mkbYRqOs@!2mNpYJdRLFngL36L@L0vi5z6cHlf?nVhhPx0G?AGnt46mKd9p1DHx$RC@JFyojRrMvSH7qPZs0qosBXObsT4UQX&Yzq8h$TEGgcnE4skdTxy#0k?LZh3@&#7dnJXf8WjFbmIP*JVb9KYE9zOfoh%pLrkc69&8
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 150
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:43:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:43:      Key: pwLIa*K5ZAHa*O%CHPiB
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 150
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: wMtx#QU@w95!*sva!B#X
+   Value: ex?x8k8&jnv$uE2PD5VHHLBM7qYcYBHRVM1z8y3I&jA5pKnFzokrbfuF2y3#?hbFsr3qkE9OLOr6TOvr5gx6F7WQt28mTjBv5DrLEZ?emSCoI2R8TJzlDXxWGddgCk45V%hHItpXnXiKVLpPBOxbFg%RXPh5h$yVMI7ERCum&5!xioa?MXy4J$bvjYM0@r?p#uk91nSH
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 151
+[32m[INFO]	  2021-12-17 16:38:43:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:43:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:43:     Key: AuSeNT9R6uxOdhdzHHaX
+   Value: k0Ekq2I%?mb8Ononu*4QPMHlYtI531yzvF8dzTxk$45Fym%YV*3MGlBG4c&J3GWprx4C2u%L*oPaLcTRQ9y*ceM&YtiC3Ag&fRhMA&2ykJM&D@Pr4KzMgqHsEZnEkzUjvb5#Gn5$H5V@$8iJaLToVqbYDh*L@1Os&FT7d240CImU2%N%Q#b#Fm2NnA1pJjHN%3HlqBf7
+[36m[DEBUG]	  2021-12-17 16:38:43:  Size: 152
+[32m[INFO]	  2021-12-17 16:38:44:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:44:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:44:     Key: !LmoZAJMmfQRXo6qH6u@
+   Value: s*h2G7!rNcmnrw*&p77MveQx7Hd$4uF@KamYA5$cYvCbCIuK5S&Ed4tZJ@y$jFs4XamcNW%c#SgbCTU!pbgtyszDEmrWu8%1XqVvD5Ixq3KPUKDE?Z#Ay5Lz*oiK%C6PhKOaC8kyLdKCCmWMZrHna0eN8jMENcsB3AUA8hUoRL9BAZ@%42DyMI31ISTM$MrytjiziLwU
+[36m[DEBUG]	  2021-12-17 16:38:44:  Size: 153
+[32m[INFO]	  2021-12-17 16:38:44:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:44:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:44:      Key: 1LpfxR9dX8bBUFu&qWO6
+[36m[DEBUG]	  2021-12-17 16:38:44:  Size: 153
+[32m[INFO]	  2021-12-17 16:38:44:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:44:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:44:     Key: x?pZ%55yFpVsXJf&Hbvo
+   Value: 6pCl2%l1pF%8esimLp6WfAg0Rj973H?SJ2bKqdemFrq!8Iw&HKVfzV?CcR*E2!AXC0nmK!fmqWO@nNn5uV4nw%VopFgD4u0My#GKvyPeaA&J3eVWtZ6mIh1npvlN8vil84gAaX!qg4VM@H?Cjcp04gw@V72uxFRATmpJy9Q3Wul$MNtfiYq#tbRHERr0@D22QpQ@#4@l
+[36m[DEBUG]	  2021-12-17 16:38:44:  Size: 154
+[32m[INFO]	  2021-12-17 16:38:44:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:44:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:44:     Key: Im@PPCfTpGZa6p#Qu#HQ
+   Value: M8HTCvqkFX@OmY!xqjH460&ptZD8LLsrRCF3xQKp1nKwK2WgN9I&eE!zAifNvZ@vzCtsvy#joa7Vw88@byg4T8r4kDpyVpST#mXyjg5nrs#PuEfcc5RvIf5e!*NC8QUisrSDh%KTOXGxPN*2Fl1VX!YOjiY2Yq*nmOT?5ec8NyWiS9ynpFu!&vkuyPBxtgWl$A&nrj?R
+[36m[DEBUG]	  2021-12-17 16:38:44:  Size: 155
+[32m[INFO]	  2021-12-17 16:38:44:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:44:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:44:     Key: aoApmYrRJeyVYSqOTrj4
+   Value: UO#0uLC%xdrQH8qXX2cKn!!&#xj!muyUP6%*?j*rwD$LppLlu9nejWu78Jga3uHlQNj0P5@f1e!beTAVrnGMZR@FaL5kPTo0lhtJlSnRQg87vqj!%?0eoKw%Gjik7ypLn&UCbh5OJ3Qpb*tThjZi%X$j$Z$@z1?Q5qVD8Ys#&*XK7X%%JB&#LG4n6HD2TeWwUFzCYs@N
+[36m[DEBUG]	  2021-12-17 16:38:44:  Size: 156
+[32m[INFO]	  2021-12-17 16:38:44:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:44:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:44:     Key: VueDW!9ZB*kgE@t5T9gw
+   Value: wsTP!Rv6C7F7x#@v8P66Ia&FDpUI5yR2U&7VQCqhdzLtl5W89PBR0c&FNn$EkecizCbz0jA?G%wvQCcTuJr5?c0*s*5NseANN75A!l#e!*Y5Lw61HX9mUkU3qTvi$nF51S7B8dR#AN1m32tUpXDFDb83fqwQnkR5pv?i9C2X18R3@YC1$q0iNKFSU17RugeLLF*@v&a#
+[36m[DEBUG]	  2021-12-17 16:38:44:  Size: 157
+[32m[INFO]	  2021-12-17 16:38:44:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:44:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:44:     Key: %!mM6N29Ufe7op6FtWK9
+   Value: 1D&51Mg%c8mcxxXvElE16&uxYeI2ApDQ9HeYRG%71d2a$vO&68Eki7GvXrzVX9JG%Vwh60Ao%8lD!b0NLkL@bQ8tNyFRl#TQUH3h25fJy8b?F%wK&$9ZE5%uv7zJ2ydtaHT2t3aF2KB@Qax$KP%KVpRtj5k3vencRBfQ8#GJ49l1qHScRDY0mKg3bU5cIfD6cS?F3nEr
+[36m[DEBUG]	  2021-12-17 16:38:44:  Size: 158
+[32m[INFO]	  2021-12-17 16:38:45:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:45:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:45:     Key: tCT9b4$4jBlp%TqCs&DD
+   Value: #?8ge6L8z8KNUOrV@IoAFT3IgGNsNF*GWE&IOh@tAs&c@gneHgMm?4yQ5#HTpc1$Zrh%jW8StBGJ7vgt%jxctcYCkx!Hwz!yTqgb?wSYeAt1MDDT7mRXVk2dN45rPCm8oKonUJF0rF&0Ow6RjNrxKS&4*l82!I8gI2Mo@bVaRILFY#%s!s5hITA5wcLv*hhhH9qc!pqA
+[36m[DEBUG]	  2021-12-17 16:38:45:  Size: 159
+[32m[INFO]	  2021-12-17 16:38:45:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:45:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:45:     Key: *eIEJMBVhu9#Syhw51?d
+   Value: yc%#!I%8l0rZo9abm!x%PJW69yO@xXo1@pSe7X@5oN!#IPojj0d?SvqCI4Mm5yo3yMuJiJN8cQlAcM9h9TyIift50T@Z$D&x6t5Ux@42Qemi?JXsTdLtjO5?NfXJ7uKlyZ@u2EzH68qsWk0rPm%JhOumXs#Yhzg4$XPVwGyaBHNJltBmL#JjfM1fyvGhh?sPlJmeI7uX
+[36m[DEBUG]	  2021-12-17 16:38:45:  Size: 160
+[32m[INFO]	  2021-12-17 16:38:45:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:45:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:45:     Key: uRm5Ng*LKlGPiAl7*DX4
+   Value: aEpBOfPVByc1N6Y9@vy#XavOk7Q09e!CHHdvjc%UZMoGY$7l1VP83jqRU4Ypvi#V#vAOpXMP?r9URvfxA#RoxbP3hLvGSzcu0mE*8SK*S%DF%e*VDj3#uZJtJ?g&#fJ7u#73PhlzI#eKIfZTWuG6ldyp*dzz@d3KOkPShuOLs3*QvBnOJx1Gi*m4XmI3UBhIl03#ZhFy
+[36m[DEBUG]	  2021-12-17 16:38:45:  Size: 161
+[32m[INFO]	  2021-12-17 16:38:45:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:45:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:45:     Key: UIp3$Av?nDIvfljHmgy%
+   Value: sNf5bknNn@0lhsA4tU6zCm0dQ8RQKclA!y#Cedzw%T7C1qE9Q?bg$@9phtX!@hD?HXQ&4yJbMeD%Nq*2p7RxF2Fa0JrgAw4lNKg75HzwxwtbiQ&Y5id?Ydot8Ip7nFXOP3@rVN1u?WZHX@#qtzV@$aw#7OdF67$1#fDr4kaLMe&jmBYwuRRi?L9hPEeoM3#clTA9O?uL
+[36m[DEBUG]	  2021-12-17 16:38:45:  Size: 162
+[32m[INFO]	  2021-12-17 16:38:45:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:45:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:45:     Key: wuR8cX*auxSjM#lqG6H!
+   Value: 6Bd8jUgs6KXPIiAq$ByG#Af2rHmZ7u#edvMDAO2Z$T1gPjp79yWix0mah%W291NlJlyqR6*5$OYsbQQzUWFNPeByLqeO@BGZ55HOBY7C@7lMLxGLYTpG1be9#ihr*HbTDRZvRvg8JQmmFQnc7HCO1O5c&idV73h@i5jFAX!E3&lShbRbM7f9QE?8GH9tQmquPEjv6X@u
+[36m[DEBUG]	  2021-12-17 16:38:45:  Size: 163
+[32m[INFO]	  2021-12-17 16:38:45:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:45:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:45:     Key: tQ%HFJpO?hL*hOjQbUFt
+   Value: Ih!YLqQJskziwaoCCat3EC8a$!P&S7gELGdMiy#0P53cInpJPmvrC08c1crcCZ4RDeM%H&4vae!qt#RPSQzmmn%aRV?uF3Z2FQ366W!GaKGES5&Ui@iiJxiRtFzb!x!$gHFZ%Pzrplh!bQZtFPd&%?yEj9WfasU*YuO273VBWM6QMhzcKA3J4ZQYdd&h1FH5a80H!uCI
+[36m[DEBUG]	  2021-12-17 16:38:45:  Size: 164
+[32m[INFO]	  2021-12-17 16:38:46:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:46:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:46:      Key: 2n1o0HNdwe5WQ#a&?h8s
+[36m[DEBUG]	  2021-12-17 16:38:46:  Size: 164
+[32m[INFO]	  2021-12-17 16:38:46:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:46:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:46:     Key: DK$!F2f!gdR6H2UE#nSU
+   Value: d!FklXWZcs!4clJEZ6E8Vu%Fe3!ywQphb!Xc@oRkP$5$JwCixSxqp17SW*BkeFzuNeUx16fMMGcsAwVyT5v7#yrppkF?U9%4@fN8W10A6gt3S7!*1UL4rpHe3!jXhETBWcf61MREbypcYPzyDdYD7Yb@gG9gTg@$8NoPVwd8t75EXJlCLRQ?KKGnN1Z#CN2@vsrP*Eha
+[36m[DEBUG]	  2021-12-17 16:38:46:  Size: 165
+[32m[INFO]	  2021-12-17 16:38:46:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:46:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:46:     Key: RKP$0gAcz%B&7Td6?Anj
+   Value: N6YMf?SWvvA#&%hZ*V2QBDeJO?nGLEm?iDy2hDBROzTsei0N&X40e16RgW!r3h#16R$eqDT9Zy?fv$jJAeQYxacIZWOwcI05EArnJpLPq#YxzIdOvc8WP8EhturWuggE?vQYRaHKpy%qE!W$wb3$7MKlNmTN@gmHD&1X8?0hD3cEOjiubP%1J7t6K@IdI9ehS?3WuijT
+[36m[DEBUG]	  2021-12-17 16:38:46:  Size: 166
+[32m[INFO]	  2021-12-17 16:38:46:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:46:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:46:      Key: BUQpaE%PMJ7Zi1Bl$EGA
+[36m[DEBUG]	  2021-12-17 16:38:46:  Size: 166
+[32m[INFO]	  2021-12-17 16:38:46:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:46:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:46:     Key: 8lR8MIIqCZlz7$e?1&WY
+   Value: U@dWFnQc8R@dtd@GW?fEqGUjZXQBaV1gCqEx*5AzCmsjykmxHf*k5CE5bk29he8hVRzAtD9q$hk1C#1$r*mpGzYm?fqNOD1U2ntA96oVt!$lTRDtpYwg8%L?w?uV1!&lK8RJ8nNd@KtC3dBBmB*2l#fZ4hZ6nJxyGCnmeIHH?GjzQu4!9IUulEI*8znns63MtG*O#h@J
+[36m[DEBUG]	  2021-12-17 16:38:46:  Size: 167
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:47:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:47:      Key: svp0S8D2R@FOicHdEU6k
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 167
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:47:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:47:     Key: NBA?@&piNSMCM$zmK!zz
+   Value: Qz%n2XaIh#mO*&Qw1528V9JO3Huqry*E3ESbYb5oYAI6VC#QjeeZ9dmKhg50S%hEsOHjnPR@N47wuHd1ad$brisuwc#tSGgWtTLIL$$*SWZCvy!&R$i7c*QSnj5%aE$QlYrdKGGkXRFQgFMSUj%03#LHyjh@J6N@Otvv15fPrMyTGms%giogJZpWjfw%C6UpQntu64aG
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 168
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:47:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:47:      Key: hkF#jeHl971RfZ593Yn1
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 168
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:47:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:47:     Key: U0rGVWGa6nADUPjiiBvU
+   Value: $padY*x8UENHkp6@LH8Y7nrbXiQofQ#hojwjeHa&ncAiZnKK?FZ?#IPNb&7#qn7zJEM0AZI2%1#$ycat883ImsJserdrCBaP53pR8Fa7jVIxWpxJ7SCOI%NH8Bn#g2P1ty$RHf5LzU6ObSkbYW!fPj5n%FmOie&8kHBeIvK8NIS@DE!&#IfjNpAtz%t!jF?zN$Dh@lGG
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 169
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:47:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:47:      Key: G3cGjFk3u0v!%F6S$Nb0
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 169
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:47:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:47:     Key: 04vwFHaYCkjirNXiLj6#
+   Value: zf9P1al00&JVpxsr11yDM!Sj&!wmSLlrbaePxvSOAT3QZprNe0!UCSaAa11r4D?hvhs2@L9Xk&!l*XxDc53HNO!hy&AxpUV1V3jHZtlDuGE3C9O86E5kAJn@4l6lyy3$Ovf3hhHDLhA%og?xV1jW!MVW0l1TtEF&QCSJ$woBwd3fgiQfx1wma!reR@h!%7bPjL!8Jbhg
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 170
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:47:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:47:     Key: dYi!w8mCQ3&!A1DK0D@6
+   Value: k30KPEOH24dyjhdbqI?AQkD@l25tW#5g*e7t%vuG#VHuLGl5B7r2E&8AwsYj?NmU%Vb9kT?13bY1RU&ueMYDi6c2345Kgo!ijZULP0yZfUuG1FFFrGeJKQaaiAlA4*c&&P$lTEWY?$BDisrKe09O4fRdJQGwMe45c622hIlZ0ImbTtF0LZrJtf5P#I!iaM3Ddf$A?6RV
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 171
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:47:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:47:      Key: gc0v48qunSU#hcvwYW&K
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 171
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:47:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:47:     Key: U23B@gIu@SL3MH?WVt?#
+   Value: Gt*A%b@86SGo%zRzY0LzPEdQUj8F*Fmf#DN&wt*%W8ZqFCy?nf246V$0fpbVLDHLF#BAhW7tcu7L0vUGmRCn64U3pE1uK0YIy5OTTMCC*sNYEjV*m5MsIHkY6Ue1r5f%v%GS0PFKyg*JdePWTNjt8Z$uxih&tCxJCU4!28NB&KWCi%YeJ*A?j$T1O&8mC@?nrXLsG8GS
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 172
+[32m[INFO]	  2021-12-17 16:38:47:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:47:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:47:     Key: U57NF5ib#rZKfkc5lUmP
+   Value: YSdrYbu?7dFgOrHDFTvOVuNL4gfTk@k9!Jz5pOgIdb8Rnk&Y7eK9zk1kNnjFH&*?R*ZnZnLMyDK!&A1fO%gvzyZIpG8zEL0Fdj630nLSUOscmQ8Z0YGeZ5pt!ppq6bGuMtbD1jFu#d6sFIMvKC@*?MqEc?fEg2ix*O0d0eZR9pxbN1y!7LGd0vJBTeBjEZ6k0CaHt@y3
+[36m[DEBUG]	  2021-12-17 16:38:47:  Size: 173
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:48:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:48:     Key: w*wdItfC*!Un0KnpBh7@
+   Value: jCBCr4%%Y6gc6&NEKKC5Az6*$q0XnJsRi!5JHIxOXzr*Bzp1reC515AUBIT3HQTy#D#JeTh7&MyckR!OkVr4CW##m!#@RwoXu0SIzeK*6ysUAIk33*dTkcf6m$dJZ@Og$WYIagmWbaz&H*W#dPBXwQ4cPl0pKqyOiSxcAPpsUhw*#q?K5cqCzlHnM*9#G3!OmO7@aBDN
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 174
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:48:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:48:     Key: wiTW&GVYeoEFeJOh$$BL
+   Value: tB1MF!!sAVcIJX%at3fLv0a6bLbH#&S#RQCsIyc0b*F7v#PvVS1rIWSw@ZREmft@*6w6FHPwvObw4?Rq1dINfnqB5lX3@9s*Dsb9vDZ7KCSWYEyAD*VRTWos75i*?I7&bo4A&vSPfhqjE6pSDp*VwDaE!6ayOzynMicYG*tM6n4m#g#kMO5f7RFA0@45OCbt?Q4y5ZTI
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 175
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:48:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:48:      Key: MMnNB$HvLRlWOte70OCi
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 175
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:48:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:48:     Key: #4vYi5nYRudr0Qf!4%FR
+   Value: z7A?v?cHqdyR$AV3*TP%NHUZ3oI@Ad6&6OOIfilb%%mt6REiiRAo8gPN03l*x0u2T6vMsutqI7Lf6XNXx*91NrSNU4Posfl2IrH$gsqzH8ixr3eggHeCT8tWV&st4$uPjb05gJYyu33XJAMZ!G28BatednAsloLMBIyv2pT*hn6@uwRF*vr!ClhuNQZ3PAijxRp2?zT9
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 176
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:48:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:48:     Key: anb@tk7cr3k#uo8asovf
+   Value: KC9aqiq23Q66UrD7LE97u%5$JLz9XLwkXVSVxd2wuz&3da#YTruk@H$&BwVe9iihdiG0PEF%zb42CACuzGY%FOtw!l5E18u8ygT*dt*VaX@&EdSiEsNJQpgI2aiwM@rQB#lL&$Dxa0rnL1F176#9wLNAUqfUCCo23hVlsoCWo&tX5!vsbJd966dxFg!rvAAl%On#Bk7z
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 177
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:48:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:48:     Key: bivbX1Ts9weWx7LZoL!R
+   Value: qRgqBQQE0cd4SvH79&?ikwYErJGQUP0AmJ7srLP8p96@A7Pu83A#CU*!P3?*%j%N0zBFCfUJ71!H4w03%0vY8FC571DU1KPaYfxE7vPBGYVLw4g5vYo&pyuZCEc8whHGqAqy6gEhnGHEeFk64wNHduV3dsZe!2cZ@%T1$c!zxYcfi$sz5jyaBYupOzQ0oWdGHvJkLfzf
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 178
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:48:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:48:     Key: Ye$owg18m%patDXFT?ED
+   Value: ?jVnra!?%R3011nMrGk*@EJJ1gYar#I@yCEWK#I9sv3WmXYloyreOQLmMBC*HhSndQoze26lzu78JoiYYjvZuFmbTdeFV%ZcMhnzySwto9D8StKyKo4Ni8GwwlygJ6BYqjHgnQm&hjPGvlWI*teWE&@o3*uw*m&JX$JK3yCP1Y!h9s!Q*7EIZvCKbCZI%Q8@ER@SSMPj
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 179
+[32m[INFO]	  2021-12-17 16:38:48:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:48:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:48:     Key: *uFVIeylWKUhMWLjkvis
+   Value: &NOT04aU5IXvWPlxxoZn7&!3!bEcf6rHn3sFca1kcnoo@cp0Bbt$QJ0sNeNHOSV*GxZBx&K8XjT*nqvZn6jgR028NC9#CaDPSBW1qJT$BuXpbmK&w%nhneb0tnpXayxJq$Z28@Tx00mHN6j#X&6ZoeCc0CRY5k@U6vz?YUSis6Je*A%0KDAf@8Rq1!JVoM6chQ8nAWHu
+[36m[DEBUG]	  2021-12-17 16:38:48:  Size: 180
+[32m[INFO]	  2021-12-17 16:38:49:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:49:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:49:      Key: JP$ccQhpdt3jmEOHHR*#
+[36m[DEBUG]	  2021-12-17 16:38:49:  Size: 180
+[32m[INFO]	  2021-12-17 16:38:49:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:49:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:49:      Key: hMP*CxDqPKPGqaFTD2c&
+[36m[DEBUG]	  2021-12-17 16:38:49:  Size: 180
+[32m[INFO]	  2021-12-17 16:38:49:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:49:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:49:     Key: 22V*9RWWFsrwvCvVnG&1
+   Value: kva@PcvL6lIhZ%3MlXehGUWItRv$DW%%iU9&Iv!YDnaMExZV%!Jwu9P7emPyyYWIH#EeeOjpPK0I#Zkh4B9VY70KFh6*@r?esH?kOURp&$NNJsmf!dzjJ2AXV9RaHiYko!y%hkeF0eDODTUCyCeSCtoYqhWI2YZh!vUIOCTNC4#zkeYuYHxHWqmQcokpReq&N%Kixq#n
+[36m[DEBUG]	  2021-12-17 16:38:49:  Size: 181
+[32m[INFO]	  2021-12-17 16:38:49:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:49:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:49:      Key: MFD25PFwvqM1Bk3vNsLc
+[36m[DEBUG]	  2021-12-17 16:38:49:  Size: 181
+[32m[INFO]	  2021-12-17 16:38:49:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:49:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:49:     Key: BtATzCZi#4TG?Ogb5ifw
+   Value: HKxkSJ*$YctNo8LM$QAu0EcN$c*acxG%6QAb8hrZYy%nV0D!ieI6%?lRXflQfMZAo#345FbHOnCYwoLaLaKf!k0P%KS7Iy@VP!QVun8AtuF%qhHm?hKVk!Z0P63%GgLXRNOS&YSPUM@z6doCZT7Z0lblS0rHqhqf98Qg&f?aT3PhjUQuu@i!G@MFAEgvrMKkE25P&WMr
+[36m[DEBUG]	  2021-12-17 16:38:49:  Size: 182
+[32m[INFO]	  2021-12-17 16:38:49:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:49:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:49:      Key: toWhSkWNQV&#0bqq6dbL
+[36m[DEBUG]	  2021-12-17 16:38:49:  Size: 182
+[32m[INFO]	  2021-12-17 16:38:49:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:49:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:49:     Key: unPKlG81WT5P6Reb*3nz
+   Value: zVmgKH5%Q*S4ruEwHa39j1CYIZRLH!Y@YAVofbyqWUyMIvgv9Cq#2K@hF%oO4mpYuT5hiyn@KHOEFxUG7z8u4hr7ywv?zY*lVy5TzdFiazlKvA%#ORKyng!GwH7AR&$pDibRnp@o3NHDNojaW#RJ2qf*VbNdC10G8wOF5i2dfsMum&V2cz#EOuF!BxZj44XN1q2B2eIS
+[36m[DEBUG]	  2021-12-17 16:38:49:  Size: 183
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:50:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:50:     Key: 9FP5V7etqJ6#xUv6Mcf7
+   Value: Wf@C@XBhLXC89xcPBzVBGLSj6kWLNxL20p2SbmSY1l6cnTu1LvdWMg&9$sbWt48H&TbS4M9UBEJziPA?24IBK0InnFh5OK!dY5VpNG%NqUoE7kmoucyHUaZd5HlRjWGAH5lKD%utLbP3QEi@FL43XZyB$t@$uil7BAnv2PMjJeo#Xu4apa97hihdlgqT*fT&71hJ8Y#I
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 184
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:50:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:50:     Key: o7IJ3PxiAltMzA!H%x3Q
+   Value: BY?2Eha?OestwEsSgR6i?9&FQncW?SeT@UcwOOIk1ZtSgf@$ZBz?M!VtzuMmPF#!t&hDlVr%iqL#&QRqfLxqcD1SItMiH!WML5Elycylb#XjPJ%vjdW$n&lWE?8$sH8!SLSDbGwJv#Ba@aT*yU0rSu?gVMEoWVN%ngD6u?EH7HMo&#k5msBuomae0Rh&hPgEwBZ6jh0%
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 185
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:50:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:50:      Key: mvGUbstGMhUhGDWQHh1z
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 185
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:50:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:50:     Key: SpLfK!ad%ZpKYGQh9l4M
+   Value: SUo2!tdxW02$B5D%dOyKp#fVJ39pg9QKJX3MtzbgrtWtrK0ScVZ!ed%Rt?CHekEm9rdLgmezJNCh!KHhZydsiTLp%Ai4pcgQPdT&I7q3wv?1Tr*Vg2B%CDzOuqP#Vy6QGr$2KTTQl%q7D8rUg0J6rwvKY#*Q&yFavoHShM2ewe%DNsXrLK!i?m7G%b?bT&gk%kRVk!nV
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 186
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:50:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:50:     Key: xx31aJLB?cDNRri?jYen
+   Value: L24smy6gQPvIh?z6QXRnsDwSHnAvauDKziulRVA$1YMgCa34zR%9GcSJ%xaJ!GinbG!EB7$moNC*YooQAvM&ESdEt&8XPh3AxH5rKz!z2*0xFe8%&8MJm1Mhm$y47Fb%YGq$l0r5ejtosEtuxGyPeMTpCtNBt&4vNx67xpj9*jc6tyuV1uMoCUl5L?7yd?q28z3x%6RZ
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 187
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:50:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:50:     Key: 2uA$#jh?SY9zO1f1M%wE
+   Value: niHCTfPL%rVOBkXe7?Tft%G5zLs?M?IzOlAR$A9z#gty7MfdRcBNdCxigBo6ZSddld%776Mi?wJSTHRgfO&@KYHm5iMT%rBj$4xAgcEid!@Rhg!vqn2b%mkdcvv%gF?bDavbffDJBxB5Oeap@JnqzH17EkCmwt%XgQHi@olrRbpTPOnhlH!Gd8S@*%g19tJNka?@2$gg
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 188
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:50:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:50:     Key: v2nTrxHrJ?D50w1ti5sY
+   Value: h*jhbb*!#OytpacZ$oXqVybY!MtP%hUiSTpCXqNj4wnVqMf4!Z&!7w%r%7zZ#*B@oY1V6e5FKm#zV0&LOj$?XCNW8Zf$YF9lneu#5&Er?cSF5P3P3APf0aOW7WlDnndvXSBEL0V1j!0?*AZUi3DNXHIF?MfCm&o3QY?6oW!zT2zE5BJNKWfC%i$UGP%#GClb4ebcFq73
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 189
+[32m[INFO]	  2021-12-17 16:38:50:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:50:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:50:      Key: *mDkm8*CueqKgnjmb#!M
+[36m[DEBUG]	  2021-12-17 16:38:50:  Size: 189
+[32m[INFO]	  2021-12-17 16:38:51:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:51:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:51:     Key: g1mP!zJ2wdMnfAXwqRZj
+   Value: jqSw2kyO9MZwCNqJLokTdlNhP0RSnS7K1eW%CAuFFcrlVrn!9lDmh$8p?SXO7fCmpCarcf!DCWVk6#On&JC4mXVtqJCIeZyP2fm$QQ@P2s67I?nSkqnsz#MeWe&CB8iaY0BFhGyiBx@u3MT3VOCgdcZuFnWsXUUoWNDpr32CMvR5#tsS&CHVwNohzjt*AS$%PM&#@Vaw
+[36m[DEBUG]	  2021-12-17 16:38:51:  Size: 190
+[32m[INFO]	  2021-12-17 16:38:51:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:51:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:51:     Key: BUParwnkYpl?gD%rts9m
+   Value: av!Jiljnbc16kS9IPJ?N&7O0aHjaHYoQJiG%@B82?Xn7k*Q#wjLn&sgWX7S4kgXpE1qxz&%&atmN6Y6q#&egSzc8xnDT1%NIq8VnHMlLA1mq!7dkjXZ3*Qdt50c&kq4#G$ChfTwChHO0FSJUhXIWc#56%STAslP@HgZ160VdCpnHJlAGd#AgSk35HS#Lrw!W5mT9GWsb
+[36m[DEBUG]	  2021-12-17 16:38:51:  Size: 191
+[32m[INFO]	  2021-12-17 16:38:51:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:51:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:51:      Key: ?J%HU%OQSJxnYUX!orY1
+[36m[DEBUG]	  2021-12-17 16:38:51:  Size: 191
+[32m[INFO]	  2021-12-17 16:38:51:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:51:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:51:     Key: Urgh2!IW@*#8WoELN6qo
+   Value: #L7tSFF745ZL0n&pdvL$zUw!evl52%dkr7dBhnFz!zeXWzl75vyIeS4haCe8iQh&tW@q6uoFvaNBEgLoiqDmFwDaB$QKDtlM@XU9NGtmo*JPoWN!k@Qh!KHfKp#M4gP7KZ8WqzANwcGfdUu5!QsnelD6JZ9l!psg$aVdk$hQ%EIjvy2hzV3nhoju*#&lhFc8*iyaFbnE
+[36m[DEBUG]	  2021-12-17 16:38:51:  Size: 192
+[32m[INFO]	  2021-12-17 16:38:51:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:51:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:51:     Key: XxFUDMkM!*SUgWX&DiSn
+   Value: ToiObGkXEzYzH@jm%trBdBpyQbZyTVDct!*&fYYiwvyYzLSWdB?oM%Uo0Fv0PRtq#*ONRp6K?RKsz!m#1STSTKtr6MCi$DGEyZITPZnMw&Wf9BV5*RyV5!U0V06Ny5H4dshH89l6A8uZWBBTa2gP%TKoTvCQQ8i7AwgT8Bd4&?GFQ*1sdhnc#BzUmNFDT@4O!sQiQwui
+[36m[DEBUG]	  2021-12-17 16:38:51:  Size: 193
+[32m[INFO]	  2021-12-17 16:38:52:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:52:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:52:      Key: oDFVoa9q8HOzF6ADI#2j
+[36m[DEBUG]	  2021-12-17 16:38:52:  Size: 193
+[32m[INFO]	  2021-12-17 16:38:52:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:52:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:52:      Key: 2ZDLC4HnglsNZ$jq9$K6
+[36m[DEBUG]	  2021-12-17 16:38:52:  Size: 193
+[32m[INFO]	  2021-12-17 16:38:52:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:52:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:52:     Key: FbsHdrq!pJ%glIULWSKw
+   Value: h2Deki?uKh5CkEVIn@*FkD6JFTUf49Y&OjjL&b0Y%B8SN?qdbrx8lzwzg$IC0xthRJSo9nwNfq&M?gHVl0czVVApPO7oneFdDsxsHSvGLn?uk?gk*nX6Cq!8WzhyK3HWUUHGm3W%J?1YKvElYgzpE!e3k3FTOTykTv!pK1I4LsMEX3R&#0F#1s9by0IvW41gBHjLusFM
+[36m[DEBUG]	  2021-12-17 16:38:52:  Size: 194
+[32m[INFO]	  2021-12-17 16:38:52:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:52:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:52:      Key: YTHxCU0XCr3@Xo11EzQ8
+[36m[DEBUG]	  2021-12-17 16:38:52:  Size: 194
+[32m[INFO]	  2021-12-17 16:38:53:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:53:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:53:     Key: VfZPxpcIUxuo&iRVPF8c
+   Value: t!KLG8#mW7R@0Xv%y90YSwHACrKJ2M**2G&Zu?gzID2xY*PGyi@Rmm9glO97WxFx1CsJnYTdMMU$2qm!K3Sf4p9nAafzT7Weu%@DcIVwL#QPb%$%ul3h2Md4UG83x$44aa3AqN&zC9*sWadH5&@wy#xPnvfWwLi6zCHiHUWi7OjsY25&0xhSV$brhOR5LJhe$r!%cyK7
+[36m[DEBUG]	  2021-12-17 16:38:53:  Size: 195
+[32m[INFO]	  2021-12-17 16:38:53:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:53:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:53:      Key: vgNBse?dOZgom@3pQk05
+[36m[DEBUG]	  2021-12-17 16:38:53:  Size: 195
+[32m[INFO]	  2021-12-17 16:38:53:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:53:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:53:      Key: 2atgmSa%aqIPiVlMlfbG
+[36m[DEBUG]	  2021-12-17 16:38:53:  Size: 195
+[32m[INFO]	  2021-12-17 16:38:53:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:53:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:53:     Key: !A0pBKWAZO$T4&PXTbRS
+   Value: ZGNE7I7w6UoEGOM7NOZ%NCHTUQll*&5?%yxr?b8YHu6tjOdz9ExWlJGxZT8*e6Oh!vi6b22qFw48$Z3MCWXA9TodjUx?a$Swqe?zvI%GjI*fa4KQd7hMBHAm10NcImC8ZFm$VLRk4H*KK@cOSStMcJ9@o6bfDTi!vVyrtZFVp8OAZRTVJIAdqO6J&D889$ER6vBxObVn
+[36m[DEBUG]	  2021-12-17 16:38:53:  Size: 196
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:54:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:54:     Key: u#8jj0OZRUde76KL40uK
+   Value: fPKrSM!4J*jc%xi&iTX?HONZ1ekSH6oQ@qgO%I#s&ULxGiWkMqJ?$1zj2w&teBcmSJ!0FLqrA67v1w@xg%2T*BbNug$STy&Uy#pVV83GM8PVldnAX4WKZYLOr*i@7XTm943xy6XX7CgWV#uI6boM1q37KZ$$bsymb!*#OKyP@rt%?hVbD@MM5gDX5G*Yd*4zgcMba2vp
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 197
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:54:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:54:      Key: Tx*5yAYw%LlNbMCx!Kgw
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 197
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:54:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:54:     Key: u70PSV4W7j?mPtAoOVAK
+   Value: G6WcYj6c9Fn#hQweJ5My%PE7#cigxHpa2@EStS1&OJT$x%B7UY?s8*UK@F!$MlYgPj1FvHkDxw?%nyF4Rpr!apkogxGrXnWoC0SvburhQi*ownmfesj#RrBH$V2Kiyp7o7bqqp8b4Oyyc0E6vmx*djU0*FxucMv&zuj4*BJeRucwGagNa19PGeFqBY0@%o1Sklsrk6!W
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 198
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:54:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:54:     Key: BitSLd4R!cezWR%i!k?4
+   Value: 2jod%BB71TM3edt55MwHKgghWz7WTK@#!1Bc9I?ix$EL0**j8T*RX0brPkmw59qWiTC&t0XcgpM&Q*es?5LlpPBg&r?Is#fDSn9b5xfZqLlJbT8SNwEcvvDDtC0%QWV3EGBwtHLeRdyYvUT8Mua4oEic!50s9mcphxHAw?5?fu1Rx9GarUiWbdr4weNnuB$Td#cNUOi#
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 199
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:54:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:54:      Key: 2iXX3lyjhH8U!FNnk097
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 199
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:54:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:54:      Key: ?Wa4omH!pkwb8ekLrbTa
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 199
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:54:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:54:      Key: 0n!X$WDCfWl2NpzZ3EyZ
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 199
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:54:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:54:     Key: 4#$mKDuv9XVfuV@QAcow
+   Value: VcT7Aqx*Yzo7qrQ!I03edBQ*Ktea!L37ke&CP5jnZHNvZxFRpAbNuZoWdbWHVJgM&?mRCKRHrcsv*tcetU4XHm1A6RcM@oQ7!@49Jod@3h&&RwIwn7fLV%9FW%&xgt6VuYmj8hidYDg4VY5t4pHEKSsCTMDzCNDU*NbgarcZsfM6TDv6xqJCNTs%G811f&2NaiCzrMwZ
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 200
+[32m[INFO]	  2021-12-17 16:38:54:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:54:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:54:      Key: #G8R7TN@9N%557wo2EC0
+[36m[DEBUG]	  2021-12-17 16:38:54:  Size: 200
+[32m[INFO]	  2021-12-17 16:38:55:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:55:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:55:     Key: Bk2uPbZISbT*h?*u&kei
+   Value: QQ5gV9J@LyjvdVkkB2ct!AQ?Laj#VVdKprmJo9!g05LrGz#NzCNlbAEfnTdyUtdoYD0BGkXf@ccaxTj@V@tB4eP1@%C@hCgftCOHShorFS#t6zVn3lv#dJ5?L8dn!J&atfisbZ&0g@P9Yk&r%BPGjpCpWgD2T2S*T3*n8E*N8ZLa@n6$tZLQ6dN*Vx4q37S?0@P4to5T
+[36m[DEBUG]	  2021-12-17 16:38:55:  Size: 201
+[32m[INFO]	  2021-12-17 16:38:55:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:55:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:55:     Key: gLgmFVKr57dMJm5@tecs
+   Value: GHTbzPJ!7VydBoL@Rs%&$pV&xwNVRtDXOAteo$zb47r1Zxn@ibYELjdx?pCTKdgC64&$5*VNvvXzO3eNMZxQy*@W$zdDPqjMl$JGT@qfTMzH5XyKBrRJO8x8aAY*w3x9@f?%9ojFCuFb3EOmAYwt2M6*S7u9tV0SuDrT$BR&0hhu65!%qI?AhvzQBS3XOKgbdGBD0m0i
+[36m[DEBUG]	  2021-12-17 16:38:55:  Size: 202
+[32m[INFO]	  2021-12-17 16:38:55:  IP of client: 127.0.0.1, port: 53276
+[32m[INFO]	  2021-12-17 16:38:55:  Client get data.
+[32m[INFO]	  2021-12-17 16:38:55:      Key: gAdpxu3tmZsCDVoQZxz9
+[36m[DEBUG]	  2021-12-17 16:38:55:  Size: 202
+[32m[INFO]	  2021-12-17 16:38:55:  IP of client: 127.0.0.1, port: 53274
+[32m[INFO]	  2021-12-17 16:38:55:  Client store data.
+[32m[INFO]	  2021-12-17 16:38:55:     Key: xIVVA4MbnW1QvNTo%RE4
+   Value: ri6kntzvFJnmVAjJ#f!Smywb9myf!BXAK!Wat&rksO6c$HSN!BvBsubk8shFr5cCI#8aHmojAL1nJZ6ofyKGarVHT6G2zP7JoxYsOliHGse3oBnfnDY2Kgk4Q84pNBIa60EyHt4Zk@5OBQv@4D%yx&WSO5@skPl9DAYhEuwUk@uO9rHdVBm!0AScN3MEc%yYvb4DT%aq
+[36m[DEBUG]	  2021-12-17 16:38:55:  Size: 203
