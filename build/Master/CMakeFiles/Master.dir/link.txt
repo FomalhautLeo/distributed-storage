@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -fPIC -pthread -O2  -Wl,-undefined,error -shared -Wl,-soname,libMaster.so -o libMaster.so CMakeFiles/Master.dir/src/CacheInfo.cc.o CMakeFiles/Master.dir/src/HashSlot.cc.o CMakeFiles/Master.dir/src/MasterServer.cc.o  -Wl,-rpath,/home/jace/git/simple-distributed-storage-system/build/Config: ../Config/libConfig.so 

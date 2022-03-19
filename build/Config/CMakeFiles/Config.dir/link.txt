@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -fPIC -pthread -O2  -Wl,-undefined,error -shared -Wl,-soname,libConfig.so -o libConfig.so CMakeFiles/Config.dir/src/Logger.cc.o CMakeFiles/Config.dir/src/MessageType.cc.o CMakeFiles/Config.dir/src/NetworkInfo.cc.o 

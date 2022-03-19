@@ -1,1 +1,0 @@
-/usr/bin/c++   -fPIC -pthread -O2   CMakeFiles/Master.exe.dir/Master.cc.o  -o Master.exe  -Wl,-rpath,/home/jace/git/simple-distributed-storage-system/build/Master:/home/jace/git/simple-distributed-storage-system/build/Config: ../libMaster.so ../../Config/libConfig.so 
